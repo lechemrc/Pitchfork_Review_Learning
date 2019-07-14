@@ -1,0 +1,28 @@
+Sex/Age/Marital Status,Applicants,Spouses,Children,All Asylum Recipients
+Female,"6,332",896,"1,227","8,455"
+Male,"7,167",940,"1,316","9,423"
+Under 16 Years,"1,637",-,"2,059","3,696"
+16 to 20 Years,"3,291",3,423,"3,717"
+21 Years and Over,"8,571","1,833",61,"10,465"
+Under 1 Year,-,-,3,3
+1 to 4 Years,21,-,476,497
+5 to 9 Years,203,-,817,"1,020"
+10 to 14 Years,982,-,643,"1,625"
+15 to 19 Years,"3,450",D,D,"3,928"
+20 to 24 Years,"1,219",61,125,"1,405"
+25 to 29 Years,"1,936",D,D,"2,266"
+30 to 34 Years,"1,786",D,D,"2,235"
+35 to 39 Years,"1,414",349,-,"1,763"
+40 to 44 Years,"1,018",266,-,"1,284"
+45 to 49 Years,595,167,-,762
+50 to 54 Years,387,85,-,472
+55 to 59 Years,194,60,-,254
+60 to 64 Years,115,26,-,141
+65 to 74 Years,110,36,-,146
+75 Years and Over,69,8,-,77
+Married,"4,351","1,836",-,"6,187"
+Single,"8,448",-,"2,543","10,991"
+Widowed,200,-,-,200
+Divorced/Separated,480,-,-,480
+Marital Status Unknown,20,-,-,20
+Total,"13,499","1,836","2,543","17,878"
